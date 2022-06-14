@@ -15,6 +15,7 @@ public class TypeDemo1 {
 
         char ch ='a';
         int b1=ch; //转换存储二进制转换为10进制 97 01100001
+        System.out.println(b1);
 
     }
 }
